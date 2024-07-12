@@ -1,0 +1,211 @@
+.tradingview-widget-copyright {
+    font-size: 13px !important;
+    line-height: 32px !important;   
+    text-align: center !important;
+    vertical-align: middle !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Trebuchet MS', Roboto, Ubuntu, sans-serif !important;
+    color: #B2B5BE !important;
+    display: none !important;
+        }
+  
+        body{
+    margin: 0px;
+  }
+  .Menu{
+    border: 20px solid black;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: center;
+  }
+  a{
+    padding-right: 70px;
+  }
+  .content {
+    background-color: #000000; 
+    padding: 20px;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: antiquewhite
+  }
+  #carousel-item active{
+   height: ;
+  
+  }
+  #mi{
+    height: 623px;
+    
+  }
+  .hi{
+    height:100%;
+    width: 100%;'
+    
+  }
+  img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  #card{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 130px;
+    display: inline-flex;
+    justify-content: space-around ;
+    background-image: url('https://i.postimg.cc/cCsKwM9L/sol-Manager.webp');
+    border: 1px solid black;
+  }
+  .Ac{
+        background-image:url('https://i.postimg.cc/cCsKwM9L/sol-Manager.webp');
+  }
+  /* Reset and basic styles */
+  #footerBODY{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  
+  .site-footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 40px 0;
+    font-size: 14px;
+  }
+  
+  .site-footer .container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+  }
+  
+  .site-footer .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .site-footer .footer-section {
+    flex: 1 1 300px;
+    margin-bottom: 20px;
+  }
+  
+  .site-footer h2 {
+    color: #f39c12;
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  
+  .site-footer p {
+    line-height: 1.6;
+    color: #ccc;
+  }
+  
+  .site-footer .contact p {
+    margin-bottom: 10px;
+  }
+  
+  .site-footer .socials a {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin-right: 10px;
+    color: #fff;
+    background-color: #444;
+    border-radius: 50%;
+    transition: background-color 0.3s ease;
+  }
+  
+  .site-footer .socials a:hover {
+    background-color: #f39c12;
+  }
+  
+  .site-footer .links ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .site-footer .links ul li {
+    margin-bottom: 10px;
+  }
+  
+  .site-footer .links ul li a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .site-footer .links ul li a:hover {
+    color: #f39c12;
+  }
+  
+  .site-footer .contact-form .text-input,
+  .site-footer .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #444;
+    border-radius: 4px;
+  }
+  
+  .site-footer .contact-form .btn-primary {
+    background-color: #f39c12;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 4px;
+  }
+  
+  .site-footer .contact-form .btn-primary:hover {
+    background-color: #e67e22;
+  }
+  
+  .footer-bottom {
+    background-color: #111;
+    color: #888;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+    font-size: 12px;
+  }
+  #op{
+    display: none !important;
+  }
+  .carousel slide{
+    border-radius: 50px;
+    border-color: black;
+  }
+  #card{
+    border-radius: 50px;
+    border-color: black;
+  }
+  .card-body{
+    border-radius: 20px;
+    background-color: none;
+  }
+  .socials{
+    display: none !important;
+  }
+  .footer-bottom{
+    display: none !important;
+  }
+  #footerBODY{
+    background-color: #B2B5BE;
+    border-top: #B2B5BE;
+  }
+  .card-img-top
+  {
+    border-radius: 20px;
+  }
+  .card{
+    background-color: none !important;
+  
